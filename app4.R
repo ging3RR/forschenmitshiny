@@ -21,8 +21,8 @@ server <- function(input, output, session) {
 
   # create userbase
   user_base_module_tbl <- tibble(
-    user_name = "1",
-    password = "1"
+    user_name = "shiny",
+    password = "dankefabian"
   )
 
   # check credentials vs tibble
