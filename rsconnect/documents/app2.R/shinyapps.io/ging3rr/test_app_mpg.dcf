@@ -1,0 +1,14 @@
+name: test_app_mpg
+title: test_app_mpg
+username:
+account: ging3rr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4135092
+bundleId: 4600834
+url: https://ging3rr.shinyapps.io/test_app_mpg/
+when: 1621065685.99172
+lastSyncTime: 1621065685.99172
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app1.R|try.R
